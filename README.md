@@ -22,15 +22,7 @@ Disfruto trabajar en equipo, aprender de diferentes disciplinas y abordar los pr
 | **Despliegue e Interfaces** | Streamlit |
 | **GIS & Geotecnia** | QGIS, Rocscience, Agisoft Metashape |
 
----
 
-### 📈 Mi actividad en GitHub
-_Las métricas de actividad se actualizarán automáticamente a medida que el perfil registre nuevos aportes y proyectos públicos._
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apmontesp&theme=dark" alt="Racha de contribuciones de Ana" width="48%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apmontesp&theme=gotham" alt="Lenguajes más usados" width="45%">
-</p>
 
 ---
 
