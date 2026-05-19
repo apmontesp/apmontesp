@@ -2,16 +2,18 @@
 
 ---
 
-### Perfil Profesional
-Ingeniera Geotécnica orientada a la integración de la ingeniería civil con las ciencias de la computación. Actualmente curso la Maestría en Ciencia de Datos en la Universidad EAFIT, enfocada en la aplicación de modelos de Machine Learning, visión por computadora y analítica avanzada para la mitigación del riesgo geológico, estabilidad de taludes y automatización de procesos geotécnicos.
+### Un poco sobre mí
+¡Hola! Soy Ingeniera Geotécnica y actualmente estoy cursando la Maestría en Ciencia de Datos en la Universidad EAFIT. Me apasiona encontrar puntos de encuentro entre la ingeniería civil tradicional y las ciencias de la computación, transformando datos complejos en soluciones que impacten positivamente en el mundo real. 
 
-* **Áreas de Interés:** Inteligencia Artificial aplicada a la geotecnia, visión por computadora para detección de deslizamientos, procesamiento de imágenes con UAVs (drones) y modelos predictivos temporales.
-* **Enfoque Actual:** Desarrollo de dashboards interactivos para análisis de datos de ingeniería y pipelines automatizados de procesamiento de datos espaciales.
-* **Colaboración:** Interés en participar en proyectos de datos multidisciplinarios que resuelvan problemas complejos en el mundo real.
+Disfruto trabajar en equipo, aprender de diferentes disciplinas y abordar los problemas desde perspectivas innovadoras. Mis esfuerzos actuales se centran en aplicar modelos de Machine Learning, visión por computadora y analítica avanzada para optimizar la estabilidad de taludes, mitigar riesgos geológicos y automatizar procesos en nuestra área.
+
+* **Mis áreas de interés:** Inteligencia Artificial aplicada a la geotecnia, visión por computadora para la detección de deslizamientos, procesamiento de imágenes con UAVs (drones) y modelos predictivos temporales.
+* **En lo que estoy trabajando ahora:** Desarrollo de dashboards interactivos para análisis de datos de ingeniería y la automatización de flujos de trabajo para datos espaciales.
+* **Hablemos de colaboración:** Me entusiasma mucho participar en proyectos multidisciplinarios donde pueda aportar, aprender y poner en práctica nuevas herramientas de analítica.
 
 ---
 
-### Stack Tecnológico y Herramientas
+### Herramientas y tecnologías con las que trabajo
 
 | Área | Tecnologías y Librerías |
 | :--- | :--- |
@@ -22,8 +24,8 @@ Ingeniera Geotécnica orientada a la integración de la ingeniería civil con la
 
 ---
 
-### Estadísticas de GitHub
-Las siguientes tarjetas se actualizan automáticamente con la actividad del perfil:
+### Mi actividad en GitHub
+Las siguientes tarjetas muestran de forma dinámica el código y los proyectos en los que he estado trabajando recientemente:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apmontesp&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de Ana" width="48%">
@@ -32,6 +34,7 @@ Las siguientes tarjetas se actualizan automáticamente con la actividad del perf
 
 ---
 
-### Contacto
-* **LinkedIn:** [Ana Montes en LinkedIn](https://linkedin.com/in/tu-usuario-linkedin)
-* **Correo Electrónico:** tu-correo@example.com
+### ¡Conectemos!
+Si quieres conocer más sobre mi trabajo, tienes alguna idea en mente o simplemente te gustaría conversar sobre ingeniería y datos, te invito a visitar mi perfil:
+
+* **LinkedIn:** [Ana Patricia Montes Pimienta](https://www.linkedin.com/in/ana-patricia-montes-pimienta-94b3671a0/)
